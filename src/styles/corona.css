@@ -1,0 +1,68 @@
+body{
+    background-color: blue;
+  }
+  .name{
+      font-size: 1.7em;
+      color: white;
+      font-weight: bold;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .corona-body{
+    height: 100vh;
+    width: 100vw;
+    background-color: blue ;
+  }
+  .confirm{
+      background-color: #e67e22 ;
+      border: 1 px solid #34495e ;
+    
+    }
+    .c-title{
+  font-size: 1.5em;
+  font-weight: bold; 
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  }
+    .c-body{
+        font-weight: bold;
+    }
+    
+    .recovered{
+      background-color:#32CD32 ;
+      border: 1 px solid #34495e;
+    
+    }
+    .box{
+        
+        box-shadow: 10px 10px 8px #04332f;
+        
+    }
+    .card-decks{
+        margin-top: 4em;
+    }
+    
+    .deaths{
+      background-color: red ;
+      border: 1 px solid #34495e;
+    
+    }
+    
+  .lastupdate{
+    font-size: 0.7em;
+    color: beige;
+  }
+  .number{
+    font-size: 3em;
+  }
+  .judul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    color: lightblue;
+  }.pencarian{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+  }
+
+  
