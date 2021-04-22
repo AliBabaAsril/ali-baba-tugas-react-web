@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ali-baba-tugas-react-web/static/css/main.faf5950c.chunk.css",
+    "main.js": "/ali-baba-tugas-react-web/static/js/main.fe28763d.chunk.js",
+    "main.js.map": "/ali-baba-tugas-react-web/static/js/main.fe28763d.chunk.js.map",
+    "runtime-main.js": "/ali-baba-tugas-react-web/static/js/runtime-main.1f266d16.js",
+    "runtime-main.js.map": "/ali-baba-tugas-react-web/static/js/runtime-main.1f266d16.js.map",
+    "static/css/2.b7c94619.chunk.css": "/ali-baba-tugas-react-web/static/css/2.b7c94619.chunk.css",
+    "static/js/2.79a780ed.chunk.js": "/ali-baba-tugas-react-web/static/js/2.79a780ed.chunk.js",
+    "static/js/2.79a780ed.chunk.js.map": "/ali-baba-tugas-react-web/static/js/2.79a780ed.chunk.js.map",
+    "index.html": "/ali-baba-tugas-react-web/index.html",
+    "precache-manifest.75d25522988f0d27bbce455f71219158.js": "/ali-baba-tugas-react-web/precache-manifest.75d25522988f0d27bbce455f71219158.js",
+    "service-worker.js": "/ali-baba-tugas-react-web/service-worker.js",
+    "static/css/2.b7c94619.chunk.css.map": "/ali-baba-tugas-react-web/static/css/2.b7c94619.chunk.css.map",
+    "static/css/main.faf5950c.chunk.css.map": "/ali-baba-tugas-react-web/static/css/main.faf5950c.chunk.css.map",
+    "static/js/2.79a780ed.chunk.js.LICENSE.txt": "/ali-baba-tugas-react-web/static/js/2.79a780ed.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/ali-baba-tugas-react-web/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f266d16.js",
+    "static/css/2.b7c94619.chunk.css",
+    "static/js/2.79a780ed.chunk.js",
+    "static/css/main.faf5950c.chunk.css",
+    "static/js/main.fe28763d.chunk.js"
+  ]
+}
